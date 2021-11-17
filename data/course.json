@@ -1,0 +1,30 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Social Science",
+      "Sociology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3ce45c0f-f18c-82e8-8496-ef7816d7aa09"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "The Art and Science of Negotiation",
+  "course_description": "This course provides an introduction to bargaining and negotiation in public, business, and legal settings. It combines a \"hands-on\" skill-building orientation with a look at pertinent social theory. Strategy, communications, ethics, and institutional influences are examined as they influence the ability of actors to analyze problems, negotiate agreements, and resolve disputes in social, organizational, and political circumstances characterized by interdependent interests.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.011",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
